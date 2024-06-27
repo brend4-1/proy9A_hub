@@ -27,3 +27,7 @@ Route::get('dos', function () {
 Route::get('tres', function () {
     return view('tres');
 });
+
+Route::get('lali', function () {
+    return view('lali');
+});
